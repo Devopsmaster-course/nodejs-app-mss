@@ -1,4 +1,4 @@
-node
+/* node
 {
  
   stage("CheckOutCodeGit")
@@ -35,4 +35,4 @@ node
     }
 }    
     
-}
+} */
